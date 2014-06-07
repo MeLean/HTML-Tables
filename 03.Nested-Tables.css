@@ -1,0 +1,12 @@
+﻿table, td {
+    border: 1px double black;
+}
+
+    table td {
+        padding:5px;
+    }
+ 
+    table table td {
+        font-size:64px;
+        font-family:Calibri;
+    }

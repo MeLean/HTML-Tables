@@ -1,0 +1,17 @@
+﻿table {
+    width:365px;
+    border: 0.2px solid gray;
+    font-family:Calibri;
+}
+
+th {
+    text-align:left;
+    font-size:32px;
+
+    height:70px;
+    vertical-align:top;
+    padding:0;
+}
+td span {
+    font-weight: bold;
+}

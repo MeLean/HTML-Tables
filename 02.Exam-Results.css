@@ -1,0 +1,19 @@
+﻿ table, th, td {
+    border: 1px double black;
+    font-family:Calibri;
+    text-align:left;
+  }
+
+
+thead th {    
+    font-size:28px;
+}
+
+thead td {
+    text-align:center;
+    font-weight:bold;
+}
+
+tfoot {
+    text-align:right;
+}

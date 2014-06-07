@@ -1,0 +1,77 @@
+﻿table,th ,td {
+    border:1px double black;    
+    font-family:Calibri;
+}
+
+    table th {
+        font-size:52px;
+        text-align: center;
+        vertical-align: middle;
+    }
+
+    table td {
+        font-size:24px;
+        height:100px;
+        width:100px;
+        padding:5px;
+    }
+
+    table table td {
+        font-size:18px;
+        font-weight:bold;
+        height:50px;
+        text-align: center;
+        vertical-align: middle;      
+    }
+.Beer {
+    text-align: right;
+    vertical-align: middle;
+    font-weight:bold;
+    font-size:34px;
+}
+
+.aligin-top-left {
+    vertical-align: top;
+    text-align: left;
+    
+}
+
+.aligin-top-right {
+    vertical-align: top;
+    text-align: right;    
+}
+
+.aligin-top-center {
+    vertical-align: top;
+    text-align: center;    
+}
+
+.aligin-middle-left {
+    vertical-align: middle;
+    text-align: left ;    
+}
+
+.aligin-middle-right {
+    vertical-align: middle;
+    text-align: right;    
+}
+
+.aligin-middle-center {
+    vertical-align: middle;
+    text-align: center;    
+}
+
+.aligin-bottom-right {
+    vertical-align: bottom;
+    text-align: right;
+}
+
+.aligin-bottom-left {
+    vertical-align: bottom;
+    text-align: left;    
+}
+
+.aligin-bottom-center {
+    vertical-align: bottom;
+    text-align: center;    
+}
